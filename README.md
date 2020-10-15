@@ -2,7 +2,7 @@
 ## Glad that you're interested in the projects and research-work
 This is a repository that holds the GitHub Pages profile of Samyak Jhaveri
 
-## Project 1: Investment Aid using Deep Learning and NLP
+## Project 1: [Investment Aid using Deep Learning and NLP](https://github.com/SamyakJhaveri/Investment-Aid-using-Deep-Learning-and-NLP)
  - Collected and performed data engineering on the dynamic NIFTY-50 Stock Market Dataset that had Open, High, Low, Close, and Turnover values of 50 most influential Indian companies from June 2000 to June 2020 and ongoing. 
  - Trained a baseline linear regression model that obtained an accuracy of 65 %. 
  - LSTMs neural networks are special types of Recurrent neural networks that have loops in them, allowing information to persist. This means that not only were they able to update the weights of their nodes frequently, but they were also able to take into consideration previous weights, which makes them ideal for time-series data such as stock price data.
