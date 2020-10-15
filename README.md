@@ -46,3 +46,9 @@ Course Dropout Prediction model and MOOC Course Recommendation System Architectu
 - Participated  in  several  research  events  and  meetings,  such  as  the  Southern  California  Software  Engineering Symposium (June 7), and meetings with researchers who visited the PhD group during this period
 
 
+## [Detecting Cotton Disease with Transfer Learning](https://github.com/SamyakJhaveri/Plant-Disease-Classification)
+- Trained and tested cotton plant disease detection model using TensorFlow Hub’s transfer learning feature
+- Obtained 96.7% accuracy and deployed model on Android app
+
+
+
