@@ -2,7 +2,7 @@
 ## Glad that you're interested in the projects and research-work
 This is a repository that holds the GitHub Pages profile of Samyak Jhaveri
 
-## [Project 1: Investment Aid using Deep Learning and NLP](https://github.com/SamyakJhaveri/Investment-Aid-using-Deep-Learning-and-NLP)
+## [Investment Aid using Deep Learning and NLP](https://github.com/SamyakJhaveri/Investment-Aid-using-Deep-Learning-and-NLP)
  - Collected and performed data engineering on the dynamic NIFTY-50 Stock Market Dataset that had Open, High, Low, Close, and Turnover values of 50 most influential Indian companies from June 2000 to June 2020 and ongoing. 
  - Trained a baseline linear regression model that obtained an accuracy of 65 %. 
  - LSTMs neural networks are special types of Recurrent neural networks that have loops in them, allowing information to persist. This means that not only were they able to update the weights of their nodes frequently, but they were also able to take into consideration previous weights, which makes them ideal for time-series data such as stock price data.
@@ -18,7 +18,7 @@ This is a repository that holds the GitHub Pages profile of Samyak Jhaveri
 ### Further Work
 We intend to build a pipeline for this entire process to work in flow with real-time daily stock price data and news data as input which would pass from the feature engineering and correlation module to the feature loading model, and finally to the model training and testing modules. The models will be trained and updated on a GPU accelerated platform, like Kaggle’s or on Google Colab.
 
-## [Project 2: Air Quality Index from Satellite Imagery](https://github.com/SamyakJhaveri/DA-IICT-Internship)
+## [Air Quality Index from Satellite Imagery](https://github.com/SamyakJhaveri/DA-IICT-Internship)
 Under the guidance of Prof. Srimanta Mandal (DA-IICT, Gandhinagar). 
 - Using a deep learning model trained on an open-source multispectral satellite image dataset to determine the AQI of a given region and suggest insights about that region. 
 ### Challenge:
@@ -30,21 +30,19 @@ Extracting and engineering the data features to assess air quality from subtle c
 ### Further work
 I intend to publish this project at an international conference in early 2021.
 
-## [Project 3: Machine Learning Internship at SilverTouch](https://github.com/SamyakJhaveri/Dropout-Prediction)  
+## [Machine Learning Internship at SilverTouch](https://github.com/SamyakJhaveri/Dropout-Prediction)  
 Course Dropout Prediction model and MOOC Course Recommendation System Architecture
-### Introduction
-The purpose of this project was to add personalization to the MOOC experience using a course recommendation system that utilizes web tracklogs and test results to assess cognitive performance and make course recommendations accordingly.
-### Dataset and EDA
-- Dataset included web tracking logs open-source dataset from XuetangX, a Chinese MOOC learning platform initiated by Tsinghua University that signed a contract with edX, to acquire the exclusive authorization of edX’s high-quality international courses.
- - The dataset given by the website was in the form of a large csv files compressed in a tar.gz format. After parsing this compressed file and extracting it to its original form, four files were obtained, namely - train_logs, train_truth, test_logs and test_truth
- - The train log and truth files were merged together to form a larger csv file(4.21 GB) and the same was done for the test files(1.77 GB).
- - A preliminary EDA revealed that the dataset has information of roughly 155000 unique students studying a total of 247 courses from the MOOC platform, taking up 5.4 GB of memory.
-### Tools Used
-- Dask
-- Kaggle's GPU Accelerated Environment
-- TensorFlow
-- XGBoost 
-### Dropout Prediction Model
-- XGBoost’s unique implementation of gradient boosting decision-tree algorithm, an approach where new models are created that predict the residuals or errors of prior models and then added together to make the final prediction, allowed me to deploy a binary classifier model of dropout prediction with laser-focus on memory and computing power efficiency
-- Model obtained an accuracy of 81.87 %,  a considerable improvement over the results of previous papers we cited ranging from 65 - 78 % accuracy.
+- The purpose of this project was to add personalization to the MOOC experience using a course recommendation system that utilizes web tracklogs and test results to assess cognitive performance and make course recommendations accordingly.
+- Designed architecture of course recommendation system for MOOC platform
+- Dataset included web tracking logs open-source dataset from XuetangX, a Chinese MOOC learning platform initiated by Tsinghua University that signed a contract with edX, to acquire the exclusive authorization of edX’s high-quality international courses
+- A preliminary EDA revealed that the dataset has information of roughly 155000 unique students studying a total of 247 courses from the MOOC platform, taking up 5.4 GB of memory.
+- Trained, tested and benchmarked dropout prediction model with accuracy of 81.87 %,  a considerable improvement over the results of previous papers we cited ranging from 65 - 78 % accuracy
+
+## [Undergraduate Research Internship at UC Irvine](https://github.com/SamyakJhaveri/spacetime-apps)
+- Worked directly with PhD students and faculty
+- Developed a fully-functional multiplayer ’snake’ game on the Spacetime framework, an open source researchplatform pushing the boundaries of distributed shared state
+- Even at varied frequencies of dataframe checkouts, the application was resilient enough to continue normal functioning in single-player, all-human multiplayer, human-bot multiplayer, and all-bot multiplayer settings.
+- The game provides a means to test the usability of the framework and acts as a platform for a world-wide reinforcement learning ’bot’ competition
+- Participated  in  several  research  events  and  meetings,  such  as  the  Southern  California  Software  Engineering Symposium (June 7), and meetings with researchers who visited the PhD group during this period
+
 
