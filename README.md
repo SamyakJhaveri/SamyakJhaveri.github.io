@@ -51,4 +51,12 @@ Course Dropout Prediction model and MOOC Course Recommendation System Architectu
 - Obtained 96.7% accuracy and deployed model on Android app
 
 
+## [Project, M.D.](https://github.com/SamyakJhaveri/PROJECTMD)
+- Developed Android app to digitize pathology and hematology diagnosis process among doctors
+- Designed simple password encrypted fillable PDF forms in collaboration with doctors for secure and accuratetransfer of sensitive medical data via the cloud, connected using Google’s FireBase
+- Received positive feedback from doctors and medical residents alike after testing app at a Government Hospital
+- Won first position in an IETE competition from among 130+ teams
+
+
+
 
