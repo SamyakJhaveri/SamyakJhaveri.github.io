@@ -17,3 +17,15 @@ This is a repository that holds the GitHub Pages profile of Samyak Jhaveri
  - Building a language processing model that dynamically generates vector scores of the news’/twitter feeds’ effect on the stock price and updates the LSTM model accordingly 
 ### Further Work
 We intend to build a pipeline for this entire process to work in flow with real-time daily stock price data and news data as input which would pass from the feature engineering and correlation module to the feature loading model, and finally to the model training and testing modules. The models will be trained and updated on a GPU accelerated platform, like Kaggle’s or on Google Colab.
+
+## [Project 2: Air Quality Index from Satellite Imagery](https://github.com/SamyakJhaveri/DA-IICT-Internship)
+Under the guidance of Prof. Srimanta Mandal (DA-IICT, Gandhinagar). 
+- Using a deep learning model trained on an open-source multispectral satellite image dataset to determine the AQI of a given region and suggest insights about that region. 
+### Challenge:
+Extracting and engineering the data features to assess air quality from subtle characteristics in the satellite images without on-ground sensors. 
+### APIs Used:
+- Google Earth Engine API
+- Azavea’s Raster Vision API
+- Planet.com’s remote sensing API. 
+### Further work
+I intend to publish this project at an international conference in early 2021.
